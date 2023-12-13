@@ -1,0 +1,21 @@
+.first{
+    padding: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1{
+    text-align: center;
+    padding: 45px;
+}
+
+img{
+    height: 200px;
+    padding: 25px;
+}
+
+.ok{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
